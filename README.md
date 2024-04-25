@@ -87,3 +87,5 @@ Note: Create the same measure for hydro, solar, and wind power.
 ## Dashboard
 
 [View the dashboard here](https://app.powerbi.com/reportEmbed?reportId=5abb54f8-0a28-4872-b7b5-3062c5053f9e&autoAuth=true&ctid=e93c0c9e-286e-4c79-b4cd-be2a9d8ccf16)
+
+![World Energy Consumption Dashboard](https://github.com/jbqabellera/World-Energy-Consumption/blob/32465268b7a62676da9aade8afcf6da0ff1238d0/World%20Energy%20Consumption%20Dashboard.png)
