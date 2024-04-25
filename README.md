@@ -15,11 +15,12 @@ The project's goal is to create an infographic of the consumption of renewable e
 
 ## Data
 
-[World Energy Consumption Dataset]
+[World Energy Consumption Dataset](https://github.com/jbqabellera/World-Energy-Consumption/blob/7e423bf7e29de221514ec96e6a8d0df7b1015cba/World%20Energy%20Consumption%20Dataset.csv)
 
 The dataset includes information on the following:
 - 7 continents
-- Different energy sources and their demand, consumption, share to electricity generation, and greenhouse gas emissions.
+- Different energy sources - demand, consumption, share to electricity generation
+- Greenhouse gas emissions
 
   
 ## Data Exploration using Power Query
